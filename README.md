@@ -9,7 +9,8 @@
 
 👀 Take a look at my projects and let me know what you think. I'm open to feedback and always striving to improve.
 
-
+Here's a little about my language usage
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimalale&hide=javascript,css,scss,html&theme=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 
 📫 You can reach me at  - I'd love to hear from you!
