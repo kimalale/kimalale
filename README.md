@@ -1,19 +1,212 @@
+<div align="center">
+
+```
+████████╗ █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗         ██████╗ ██████╗ ███████╗
+╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝██╔══██╗██║        ██╔═══██╗██╔══██╗██╔════╝
+   ██║   ███████║██║        ██║   ██║██║     ███████║██║        ██║   ██║██████╔╝███████╗
+   ██║   ██╔══██║██║        ██║   ██║██║     ██╔══██║██║        ██║   ██║██╔═══╝ ╚════██║
+   ██║   ██║  ██║╚██████╗   ██║   ██║╚██████╗██║  ██║███████╗   ╚██████╔╝██║     ███████║
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝     ╚══════╝
+                                                                                           
+ ██████╗ ██████╗ ███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗██████╗      ██████╗███████╗███╗   ██╗████████╗███████╗██████╗ 
+██╔════╝██╔═══██╗████╗ ████║████╗ ████║██╔══██╗████╗  ██║██╔══██╗    ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+██║     ██║   ██║██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██║  ██║    ██║     █████╗  ██╔██╗ ██║   ██║   █████╗  ██████╔╝
+██║     ██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║    ██║     ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+╚██████╗╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝    ╚██████╗███████╗██║ ╚████║   ██║   ███████╗██║  ██║
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ╚═════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ELITE+OPERATOR+%7C+CODE+SPECIALIST;TACTICAL+DEPLOYMENT+EXPERT;FULL+STACK+COMBAT+READY;MISSION+STATUS%3A+ACTIVE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=CLASSIFIED+OPERATOR+%E2%80%A2+SPECIAL+OPS+DIVISION;FULL+SPECTRUM+WARFARE+%E2%80%A2+CODE+%26+CONQUER;STATUS%3A+WEAPONS+FREE+%E2%80%A2+MISSION+ACTIVE" alt="Typing SVG" />
+
+[![Typing SVG](https://img.shields.io/badge/STATUS-COMBAT_READY-00ff00?style=for-the-badge&logo=target&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
+[![Typing SVG](https://img.shields.io/badge/THREAT_LEVEL-ZERO-00ff00?style=for-the-badge&logo=security&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
+[![Typing SVG](https://img.shields.io/badge/DEPLOYMENT-AUTHORIZED-00ff00?style=for-the-badge&logo=rocket&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
 
 
-👋 Hi there! I'm a novice developer eager to learn and grow in the tech industry.🌱 
 
-🚀 Currently honing my skills in in Ruby, Javascript, C#, PHP, and (HTML/CSS).
-📫 I'm excited to collaborate with like-minded individuals and contribute to open-source projects.
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                   ║
+║   ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗ ██████╗ ██████╗     ██████╗ ██████╗ ███████╗  ║
+║  ██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔════╝  ║
+║  ██║   ██║██████╔╝█████╗  ██████╔╝███████║   ██║   ██║   ██║██████╔╝    ██║  ██║██║  ██║███████╗  ║
+║  ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║   ██║   ██║   ██║██╔══██╗    ██║  ██║██║  ██║╚════██║  ║
+║  ╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║    ██████╔╝██████╔╝███████║  ║
+║   ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝  ║
+║                                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-💡 I'm always looking for new challenges to expand my knowledge and experience, so feel free to reach out and let's code together!
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ [CLASSIFICATION: TOP SECRET // SPECIAL ACCESS REQUIRED // COMPARTMENTED INFORMATION]             ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                                                  ┃
+┃  OPERATOR ID        : [REDACTED]-████-████-████                                                  ┃
+┃  CALLSIGN           : CHARLIE_DEVELOPER                                                          ┃
+┃  RANK               : MASTER CHIEF TECHNICAL OFFICER                                             ┃
+┃  SPECIALTY          : FULL SPECTRUM DOMINANCE • CYBER WARFARE • RAPID DEPLOYMENT                 ┃
+┃  CLEARANCE LEVEL    : OMEGA BLACK [████████████████████████████] UNLIMITED ACCESS                ┃
+┃  LOCATION           : [CLASSIFIED] • OPERATING GLOBALLY • TIMEZONE: ALL                          ┃
+┃  STATUS             : MISSION READY • WEAPONS HOT • STANDING BY                                  ┃
+┃  LAST KNOWN DEPLOY  : [REDACTED] HRS AGO • STATUS: SUCCESSFUL • ZERO CASUALTIES                  ┃
+┃                                                                                                  ┃
+┃  MISSION OBJECTIVE  : Architect bulletproof systems. Eliminate technical debt. Deploy victory.   ┃
+┃  TACTICAL APPROACH  : Strike first, strike hard, leave no bugs alive.                            ┃
+┃  RULES OF ENGAGEMENT: Code with precision. Test with paranoia. Deploy with confidence.           ┃
+┃                                                                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+</div>
 
-👀 Take a look at my projects and let me know what you think. I'm open to feedback and always striving to improve.
-<!---
-Here's a little about my language usage
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimalale&hide=Dockerfile,Shell,Batchfile,css,scss,html&langs_count=7&theme=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+> **TACTICAL BRIEF:** I deploy code like tactical strikes: precise, effective, and with zero collateral damage. Every project is a mission. Every bug is a target. Every deployment is a victory.
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                   ARSENAL & CAPABILITIES                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FRONTEND WEAPONS
+```yaml
+React/Next.js:     ▰▰▰▰▰▰▰▰▰▱  90%
+TypeScript:        ▰▰▰▰▰▰▰▰▱▱  85%
+Tailwind CSS:      ▰▰▰▰▰▰▰▰▰▱  88%
+HTML/CSS:          ▰▰▰▰▰▰▰▰▰▰  95%
+```
+
+### BACKEND ARSENAL
+```yaml
+Node.js:           ▰▰▰▰▰▰▰▰▰▱  92%
+Ruby on Rails:     ▰▰▰▰▰▰▰▰▱▱  87%
+Express:           ▰▰▰▰▰▰▰▰▰▱  90%
+PostgreSQL:        ▰▰▰▰▰▰▰▰▱▱  83%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### TACTICAL SUPPORT
+```yaml
+Docker:            ▰▰▰▰▰▰▰▰▱▱  85%
+Git/GitHub:        ▰▰▰▰▰▰▰▰▰▰  98%
+CI/CD:             ▰▰▰▰▰▰▰▰▱▱  82%
+Testing:           ▰▰▰▰▰▰▰▰▰▱  88%
+```
+
+### SPECIAL OPERATIONS
+```yaml
+API Design:        ▰▰▰▰▰▰▰▰▰▱  91%
+Performance:       ▰▰▰▰▰▰▰▰▱▱  86%
+Security:          ▰▰▰▰▰▰▰▰▰▱  89%
+Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
+```
+
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                        TECH STACK LOADOUT                     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![React Native](https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff41)
 
 
-📫 You can reach me at  - I'd love to hear from you!
-kimalale/kimalale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                          FIELD STATS                          ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kimalale&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e0a&title_color=00ff00&icon_color=00ff00&text_color=00ff00&border_radius=0" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimalale&theme=dark&hide_border=true&background=0a0e0a&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00&stroke=00ff00&border=0a0e0a" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                     MISSION STATUS BOARD                                          ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                   ║
+║  [OPERATION DELTA] ▰▰▰░░░░░░░░░░░░░░░░░  18%  ⚪ PRIORITY: RECON        ETA: 3 MONTHS          ║
+║  ├─ Web Security Platform                                                                         ║
+║  ├─ Stack: TypeScript + Postgres + Node JS + Kubernetes                                           ║
+║  ├─ Status: Architecture design phase • Vulnerabilities Methods Testing                           ║
+║  └─ Threat Level: UNKNOWN • Reconnaissance active • Gathering intelligence                        ║
+║                                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    OPERATIONAL DOCTRINE                       ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```javascript
+const OPERATOR_CODEX = {
+  philosophy: {
+    primary: "Clean code is not written by following rules, but by caring",
+    secondary: "Make it work, make it right, make it fast",
+    tertiary: "Simplicity is the ultimate sophistication"
+  }
+};
+// MISSION FIRST. PEOPLE ALWAYS. CODE FOREVER.
+```
+
+<div align="center">
+
+  ```
+  ┌─────────────────────────────────────────────────────────────┐
+  │              SECURE COMMUNICATION CHANNELS                  │
+  └─────────────────────────────────────────────────────────────┘
+  ```
+  
+  [![Email](https://img.shields.io/badge/EMAIL-SECURE%20CHANNEL-00ff00?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=000000)](mailto:kimalale@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00ff00?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000)](https://www.linkedin.com/in/kim-malale-2b67b61ba/)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-00ff00?style=for-the-badge&logo=google-chrome&logoColor=00ff00&labelColor=000000)](https://kimalale.xyz)
+  
+  <img src="https://komarev.com/ghpvc/?username=kimalale&style=for-the-badge&color=00ff00&label=UNCLASSFIED+ACCESS" alt="Profile views" />
+
+</div>
