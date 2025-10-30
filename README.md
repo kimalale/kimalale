@@ -18,26 +18,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ELITE+OPERATOR+%7C+CODE+SPECIALIST;TACTICAL+DEPLOYMENT+EXPERT;FULL+STACK+COMBAT+READY;MISSION+STATUS%3A+ACTIVE" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=CLASSIFIED+OPERATOR+%E2%80%A2+SPECIAL+OPS+DIVISION;FULL+SPECTRUM+WARFARE+%E2%80%A2+CODE+%26+CONQUER;STATUS%3A+WEAPONS+FREE+%E2%80%A2+MISSION+ACTIVE" alt="Typing SVG" />
+</div>
 
-[![Typing SVG](https://img.shields.io/badge/STATUS-COMBAT_READY-00ff00?style=for-the-badge&logo=target&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
-[![Typing SVG](https://img.shields.io/badge/THREAT_LEVEL-ZERO-00ff00?style=for-the-badge&logo=security&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
-[![Typing SVG](https://img.shields.io/badge/DEPLOYMENT-AUTHORIZED-00ff00?style=for-the-badge&logo=rocket&logoColor=00ff00&labelColor=000000)](https://github.com/kimalale)
-
-
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                   ║
-║   ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗ ██████╗ ██████╗     ██████╗ ██████╗ ███████╗  ║
-║  ██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔════╝  ║
-║  ██║   ██║██████╔╝█████╗  ██████╔╝███████║   ██║   ██║   ██║██████╔╝    ██║  ██║██║  ██║███████╗  ║
-║  ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║   ██║   ██║   ██║██╔══██╗    ██║  ██║██║  ██║╚════██║  ║
-║  ╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║    ██████╔╝██████╔╝███████║  ║
-║   ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝  ║
-║                                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+<div align="center">
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                               [CLASSIFICATION: TOP SECRET]                                       ┃
@@ -132,7 +115,8 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff41)
-
+</div>
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -152,28 +136,6 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
   </tr>
 </table>
 </div>
-
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    OPERATIONAL DOCTRINE                       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-```javascript
-const OPERATOR_CODEX = {
-  philosophy: {
-    primary: "Clean code is not written by following rules, but by caring",
-    secondary: "Make it work, make it right, make it fast",
-    tertiary: "Simplicity is the ultimate sophistication"
-  }
-};
-// MISSION FIRST. PEOPLE ALWAYS. CODE FOREVER.
-```
 
 <div align="center">
 
