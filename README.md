@@ -21,6 +21,7 @@
 </div>
 
 <div align="center">
+   
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                               [CLASSIFICATION: TOP SECRET]                                       ┃
@@ -36,6 +37,7 @@
 ┃                                                                                                  ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
+
 </div>
 
 > **TACTICAL BRIEF:** I deploy code like tactical strikes: precise, effective, and with zero collateral damage. Every project is a mission. Every bug is a target. Every deployment is a victory.
@@ -90,7 +92,9 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
 </td>
 </tr>
 </table>
+
 </div>
+
 <div align="center">
 
 ```
@@ -115,7 +119,9 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff41)
+
 </div>
+
 <div align="center">
 
 ```
