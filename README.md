@@ -40,21 +40,16 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ [CLASSIFICATION: TOP SECRET // SPECIAL ACCESS REQUIRED // COMPARTMENTED INFORMATION]             ┃
+┃                               [CLASSIFICATION: TOP SECRET]                                       ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┃                                                                                                  ┃
 ┃  OPERATOR ID        : [REDACTED]-████-████-████                                                  ┃
-┃  CALLSIGN           : CHARLIE_DEVELOPER                                                          ┃
-┃  RANK               : MASTER CHIEF TECHNICAL OFFICER                                             ┃
-┃  SPECIALTY          : FULL SPECTRUM DOMINANCE • CYBER WARFARE • RAPID DEPLOYMENT                 ┃
-┃  CLEARANCE LEVEL    : OMEGA BLACK [████████████████████████████] UNLIMITED ACCESS                ┃
+┃  RANK               : GRADUATE SOFTWARE DEVELOPER                                                ┃
+┃  SPECIALTY          : FULL SPECTRUM DEVELOPER                                                    ┃
 ┃  LOCATION           : [CLASSIFIED] • OPERATING GLOBALLY • TIMEZONE: ALL                          ┃
-┃  STATUS             : MISSION READY • WEAPONS HOT • STANDING BY                                  ┃
-┃  LAST KNOWN DEPLOY  : [REDACTED] HRS AGO • STATUS: SUCCESSFUL • ZERO CASUALTIES                  ┃
+┃  STATUS             : STANDING BY                                                                ┃
 ┃                                                                                                  ┃
 ┃  MISSION OBJECTIVE  : Architect bulletproof systems. Eliminate technical debt. Deploy victory.   ┃
-┃  TACTICAL APPROACH  : Strike first, strike hard, leave no bugs alive.                            ┃
-┃  RULES OF ENGAGEMENT: Code with precision. Test with paranoia. Deploy with confidence.           ┃
 ┃                                                                                                  ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
@@ -160,21 +155,6 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
 
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                     MISSION STATUS BOARD                                          ║
-╠═══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                                   ║
-║  [OPERATION DELTA] ▰▰▰░░░░░░░░░░░░░░░░░  18%  ⚪ PRIORITY: RECON        ETA: 3 MONTHS          ║
-║  ├─ Web Security Platform                                                                         ║
-║  ├─ Stack: TypeScript + Postgres + Node JS + Kubernetes                                           ║
-║  ├─ Status: Architecture design phase • Vulnerabilities Methods Testing                           ║
-║  └─ Threat Level: UNKNOWN • Reconnaissance active • Gathering intelligence                        ║
-║                                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
