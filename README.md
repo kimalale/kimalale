@@ -1,22 +1,5 @@
 <div align="center">
 
-```
-████████╗ █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗         ██████╗ ██████╗ ███████╗
-╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝██╔══██╗██║        ██╔═══██╗██╔══██╗██╔════╝
-   ██║   ███████║██║        ██║   ██║██║     ███████║██║        ██║   ██║██████╔╝███████╗
-   ██║   ██╔══██║██║        ██║   ██║██║     ██╔══██║██║        ██║   ██║██╔═══╝ ╚════██║
-   ██║   ██║  ██║╚██████╗   ██║   ██║╚██████╗██║  ██║███████╗   ╚██████╔╝██║     ███████║
-   ╚═╝   ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝     ╚══════╝
-                                                                                           
- ██████╗ ██████╗ ███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗██████╗      ██████╗███████╗███╗   ██╗████████╗███████╗██████╗ 
-██╔════╝██╔═══██╗████╗ ████║████╗ ████║██╔══██╗████╗  ██║██╔══██╗    ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
-██║     ██║   ██║██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██║  ██║    ██║     █████╗  ██╔██╗ ██║   ██║   █████╗  ██████╔╝
-██║     ██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║    ██║     ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
-╚██████╗╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝    ╚██████╗███████╗██║ ╚████║   ██║   ███████╗██║  ██║
- ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ╚═════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ELITE+OPERATOR+%7C+CODE+SPECIALIST;TACTICAL+DEPLOYMENT+EXPERT;FULL+STACK+COMBAT+READY;MISSION+STATUS%3A+ACTIVE" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=CLASSIFIED+OPERATOR+%E2%80%A2+SPECIAL+OPS+DIVISION;FULL+SPECTRUM+WARFARE+%E2%80%A2+CODE+%26+CONQUER;STATUS%3A+WEAPONS+FREE+%E2%80%A2+MISSION+ACTIVE" alt="Typing SVG" />
 </div>
 
@@ -155,6 +138,4 @@ Architecture:      ▰▰▰▰▰▰▰▰▱▱  84%
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00ff00?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000)](https://www.linkedin.com/in/kim-malale-2b67b61ba/)
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-00ff00?style=for-the-badge&logo=google-chrome&logoColor=00ff00&labelColor=000000)](https://kimalale.xyz)
   
-  <img src="https://komarev.com/ghpvc/?username=kimalale&style=for-the-badge&color=00ff00&label=UNCLASSFIED+ACCESS" alt="Profile views" />
-
 </div>
